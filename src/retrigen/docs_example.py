@@ -1,5 +1,5 @@
 """
-This is just a sample script used for showcasing the documentation.
+This is a sample script used for showcasing the documentation.
 """
 
 
